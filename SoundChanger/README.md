@@ -24,6 +24,6 @@ Nah disini urang ganti pake suara di bawah ini, Setelah itu tinggal pilih dan kl
 Kalo udah gitu,, balik ke software Startup Sound Changer dan coba pencet ```Play```, jika berhasil maka suaranya berubah sesuai suara yang diinginkan.
 Setelah itu, agar windows dapat mendeteksi dan menyimpan file ini di sistemnya, tolong lah di restart Windows nya untuk testimoni suara...
 
-Oke, mungkin sekian dari Urang,, semoga kebayang...
+Oke, mungkin sekian dari Urang,, semoga kebayang dan kalau cara ini ga bisa diaplikasikan, tolonglah untuk kontak urang nanti biar dibantu biar bisa OK :)
 
 
